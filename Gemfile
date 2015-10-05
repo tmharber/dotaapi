@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in dotaapi.gemspec
+# Gems specified in dotaapi.gemspec
 gemspec
